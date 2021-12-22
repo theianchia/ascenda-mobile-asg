@@ -11,3 +11,22 @@ Flutter
 * Dart 2.15.0
 * Xcode 13.2.1
 
+Run `flutter doctor` in the terminal to ensure you are running the correct versions
+```bash
+$ flutter doctor
+```
+## How to use?
+Run `flutter pub get` to retrieve the dependencies
+```bash
+$ flutter pub get
+```
+
+Run `open -a simulator`, launch the ios emulator
+```bash
+$ open -a simulator
+```
+
+From the root of the project, run `flutter run` to start the project
+```bash
+$ flutter run
+```
