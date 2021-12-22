@@ -2,8 +2,7 @@
 Ascenda 2021 Mobile Intern Assignment
 1. Renders a gift card listing from API including name, category and price</li>
 2. Opens an alert dialog upon clicking an item</li>
-<img src='https://github.com/theianchia/ascenda-mobile-asg/blob/main/home.png' width='200'>
-<img src='https://github.com/theianchia/ascenda-mobile-asg/blob/main/alert.png' width='200'>
+<img src='https://github.com/theianchia/ascenda-mobile-asg/blob/main/home.png' width='200'> <img src='https://github.com/theianchia/ascenda-mobile-asg/blob/main/alert.png' width='200'>
 
 ## Framework used
 Flutter
