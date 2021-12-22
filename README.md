@@ -13,7 +13,7 @@ Flutter
 * Dart 2.15.0
 * Xcode 13.2.1
 
-Run `flutter doctor` in the terminal to ensure you are on the correct versions
+Run `flutter doctor` in the terminal to check if you are on the same versions
 ```bash
 $ flutter doctor
 Doctor summary (to see all details, run flutter doctor -v):
