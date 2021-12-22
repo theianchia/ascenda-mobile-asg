@@ -34,7 +34,7 @@ From the root of the project, run `flutter pub get` to retrieve the dependencies
 $ flutter pub get
 ```
 
-Run `open -a simulator`, launch the ios emulator
+Run `open -a simulator` to launch the ios emulator
 ```bash
 $ open -a simulator
 ```
