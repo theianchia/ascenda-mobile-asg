@@ -13,7 +13,7 @@ Flutter
 * Dart 2.15.0
 * Xcode 13.2.1
 
-Run `flutter doctor` in the terminal to check if you are on the same versions
+Run `flutter doctor` in the terminal to check if you are using the same versions
 ```bash
 $ flutter doctor
 Doctor summary (to see all details, run flutter doctor -v):
@@ -28,7 +28,7 @@ Doctor summary (to see all details, run flutter doctor -v):
 
 • No issues found!
 ```
-## How to use?
+## How to use
 From the root of the project, run `flutter pub get` to retrieve the dependencies
 ```bash
 $ flutter pub get
